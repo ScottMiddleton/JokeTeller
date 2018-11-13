@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\StudioProjects\FinalProject\app\src\androidTest\shaders"/></dataSet><dataSet config="paid"><source path="E:\StudioProjects\FinalProject\app\src\androidTestpaid\shaders"/></dataSet><dataSet config="debug"><source path="E:\StudioProjects\FinalProject\app\src\androidTestDebug\shaders"/></dataSet><dataSet config="paidDebugAndroidTest"><source path="E:\StudioProjects\FinalProject\app\src\androidTestPaidDebug\shaders"/></dataSet></merger>

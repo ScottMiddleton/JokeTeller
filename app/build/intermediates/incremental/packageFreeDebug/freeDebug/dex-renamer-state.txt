@@ -1,0 +1,16 @@
+#Thu Oct 11 11:02:57 BST 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+renamed.4=classes5.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+base.4=E\:\\StudioProjects\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\11
+renamed.0=classes.dex
+base.3=E\:\\StudioProjects\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\9
+base.2=E\:\\StudioProjects\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\7
+base.1=E\:\\StudioProjects\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\10
+base.0=E\:\\StudioProjects\\FinalProject\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\8
+path.4=classes.dex

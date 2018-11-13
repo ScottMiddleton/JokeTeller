@@ -1,0 +1,80 @@
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\ad19e4ef87a9f251526442d5331a70bf\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\1a61c4ffe9663bc59ff7d083d7fa2439\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\29a8a58db3edcd642f7d1183f0fbd582\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.23.0\522ea860eb48dee71dfe2c61a1fd09663539f556\google-api-client-1.23.0.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.23.0\1bbe77a8594d7892571266392b8a7dd0a5980664\google-http-client-android-1.23.0.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.23.0\e57ea1e2220bda5a2bd24ff17860212861f3c5cf\google-oauth-client-1.23.0.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.23.0\fd6761f4046a8cb0455e6fa5f58e12b061e9826e\google-http-client-jackson2-1.23.0.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.23.0\8e86c84ff3c98eca6423e97780325b299133d858\google-http-client-1.23.0.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\40d0e8f195133241966d3ecdb3649e62\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\95037a2146c28fb7194406250229ec3e\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\902b6028bf5eaa4793a9de331e1ca2a0\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\88e6569e47c737a928925378d1961518\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\78218a1a8459ee931410f9cb83a878d7\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\deacb00008266279d57ed7f4c595c13a\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\fcd05b9ae600284d0c0c07adfa27210a\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.8.1\bc373fb6bc7bca3035041b924f158fd2b946ee8d\butterknife-annotations-8.8.1.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fc25d04e31a1d8f4afb39136850cf1cd\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\157ad34e6f29543b5289c10686ce4c48\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4954a2fa1155992be4c333ce8964b40c\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c1b9eb3b47aff1323c732be92e11ef89\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\aa128670db81def83211afc9d06a17b1\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a309939bbd90ded1af90f60b05aac21d\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\ff430c11bffb083d76c30a091358c0a1\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\a9a41fc5dff13d4358ed46045f423ea8\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\2e5f2816e3c0b637ac7ffde43fc52a46\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient\4.0.1\1d7d28fa738bdbfe4fbd895d9486308999bdf440\httpclient-4.0.1.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.0.1\e813b8722c387b22e1adccf7914729db09bcb4a9\httpcore-4.0.1.jar'(**.class)
+-injars 'C:\Program Files\Android\Android Studio\gradle\m2repository\commons-logging\commons-logging\1.1.1\commons-logging-1.1.1.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.3\fd32786786e2adb664d5ecc965da47629dca14ba\commons-codec-1.3.jar'(**.class)
+-injars 'E:\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\1566827964082d518aa726dae3b125d2\jars\classes.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar'(**.class)
+-injars 'E:\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar'(**.class)
+-injars 'E:\StudioProjects\FinalProject\jokelib\build\libs\jokelib.jar'(**.class)
+-injars 'E:\StudioProjects\FinalProject\myandroidlibrary\build\intermediates\intermediate-jars\debug\classes.jar'(**.class)
+-injars 'E:\StudioProjects\FinalProject\app\build\intermediates\classes\free\debug'(**.class)
+-outjars 'E:\StudioProjects\FinalProject\app\build\intermediates\multi-dex\free\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\Scott\AppData\Local\Android\Sdk\build-tools\26.0.3\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'E:\StudioProjects\FinalProject\app\build\intermediates\multi-dex\free\debug\components.flags'
+
+
+# Referenced at E:\StudioProjects\FinalProject\app\build\intermediates\manifests\full\free\debug\AndroidManifest.xml:15
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

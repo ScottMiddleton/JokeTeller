@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\StudioProjects\FinalProject\app\src\androidTest\jniLibs"/></dataSet><dataSet config="free"><source path="E:\StudioProjects\FinalProject\app\src\androidTestfree\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\StudioProjects\FinalProject\app\src\androidTestDebug\jniLibs"/></dataSet><dataSet config="freeDebugAndroidTest"><source path="E:\StudioProjects\FinalProject\app\src\androidTestFreeDebug\jniLibs"/></dataSet></merger>
